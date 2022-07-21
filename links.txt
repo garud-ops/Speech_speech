@@ -1,0 +1,21 @@
+towards data science:
+https://towardsdatascience.com/building-a-speech-translator-in-python-8ff190212b49
+
+
+
+Geeks for Geeks:
+https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/
+
+
+Geeks for Geeks api:
+https://www.geeksforgeeks.org/language-translator-using-google-api-in-python/
+
+
+Java point:
+https://www.javatpoint.com/create-a-real-time-voice-translator-using-python
+
+Youtube :
+https://www.youtube.com/watch?v=_IuHIRCHqSw
+
+Sunita mam:
+https://www.youtube.com/watch?v=fZBCmyHAynk&list=PLSDyGb_vtanzPbQUpY_CQJipMGEUEmGD6
